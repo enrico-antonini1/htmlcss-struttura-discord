@@ -40,7 +40,7 @@ a {
 
 .header {
     background-color: lightblue;
-    height: 80px;
+    height: 50px;
     display: flex;
     align-items: center;
 }
@@ -48,7 +48,7 @@ a {
 
 .sec-header {
     background-color: orange;
-    height: 50px;
+    height: 30px;
     width: 80%;
     display: flex;
     justify-content: space-between;
@@ -83,3 +83,22 @@ a {
     align-items: center;
     justify-content: right;
 }
+
+.section-1 {
+    background-color: darkblue;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.square-1 {
+    background-color: violet;
+    height: 280px;
+    width: 60%;
+    display: flex;
+    
+
+
+}
+
