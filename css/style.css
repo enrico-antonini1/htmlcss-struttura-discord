@@ -8,3 +8,78 @@
 img {
     max-width: 100%;
 }
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* UTILITIES */
+.border-bl {
+    border: 1px solid black;
+    /* border-style: hidden; */
+}
+
+.mg-2px{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.pd-5px {
+    padding: 5px;
+}
+
+.text-bl {
+    color: black;
+}
+
+/* HEADER */
+
+.header {
+    background-color: lightblue;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+
+.sec-header {
+    background-color: orange;
+    height: 50px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto
+}
+
+.logo {
+    width: 25%;
+    height: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+   
+}
+
+.link-list {
+    width: 50%;
+    height: 100%;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login {
+    width: 25%;
+    text-align: right;
+    height: 100%;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
