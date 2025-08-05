@@ -36,6 +36,10 @@ a {
     color: black;
 }
 
+/* .bg-gray {
+    background-color: gray;
+} */
+
 /* HEADER */
 
 .header {
@@ -46,7 +50,7 @@ a {
 }
 
 
-.sec-header {
+.container {
     background-color: orange;
     height: 30px;
     width: 80%;
@@ -82,7 +86,7 @@ a {
     justify-content: right;
 }
 
-.section-1 {
+.hero {
     background-color: darkblue;
     height: 350px;
     display: flex;
@@ -90,7 +94,7 @@ a {
     align-items: center;
 }
 
-.square-1 {
+.content {
     background-color: violet;
     height: 280px;
     width: 60%;
