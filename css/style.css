@@ -68,7 +68,6 @@ a {
 .link-list {
     width: 50%;
     height: 100%;
-    border: 1px solid black;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -78,7 +77,6 @@ a {
     width: 25%;
     text-align: right;
     height: 100%;
-    border: 1px solid black;
     display: flex;
     align-items: center;
     justify-content: right;
@@ -96,9 +94,47 @@ a {
     background-color: violet;
     height: 280px;
     width: 60%;
-    display: flex;
-    
-
-
+    /* display: flex; */
 }
 
+.section-2 {
+    background-color: white;
+    height: 350px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+} 
+
+.square-2 {
+background-color: lightskyblue;
+height: 280px;
+width: 40%;
+}
+
+.square-3 {
+background-color: pink;
+height: 280px;
+width: 30%;
+}
+
+.section-3 {
+    background-color:lightgray;
+    height: 350px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+} 
+
+.section-4 {
+    background-color: lightgray;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.square-4 {
+background-color: green;
+height: 280px;
+width: 70%;
+}
