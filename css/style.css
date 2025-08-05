@@ -108,13 +108,13 @@ a {
 .square-2 {
 background-color: lightskyblue;
 height: 280px;
-width: 40%;
+width: 45%;
 }
 
 .square-3 {
 background-color: pink;
 height: 280px;
-width: 30%;
+width: 35%;
 }
 
 .section-3 {
@@ -127,7 +127,7 @@ width: 30%;
 
 .section-4 {
     background-color: lightgray;
-    height: 350px;
+    height: 770px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -135,6 +135,6 @@ width: 30%;
 
 .square-4 {
 background-color: green;
-height: 280px;
-width: 70%;
+height: 700px;
+width: 80%;
 }
